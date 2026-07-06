@@ -6,13 +6,11 @@ categories: [AI, trading]
 ---
 ## AI Trading News Summary (2026-07-06)
 
-1. What Happened in Markets Today · Troubles at OpenAI sent tremors through technology stocks on Tuesday, pulling the Nasdaq composite down 0.9%.
+1. Trading Day: Sizzling AI now fizzling · STOCKS: South Korea -5%, China and Japan -2%. · SECTORS/SHARES: Eight S&P 500 sectors fall, three rise.
 
-2. Understanding how AI impacts business. The latest news on advancements in artificial intelligence, how to use AI, and how to invest in AI.
+2. Michael Burry warns the AI trade looks like “mass addiction” as semiconductor stocks soar and SOXX valuations near 15-year highs.
 
-3. Even hedge funds are divided about whether to ride the artificial intelligence wave or position for a nasty stock-market correction.
-
-4. “The concern is that AI will reduce the frictional cost of finance, which would reduce profits for banks and other financial firms.” JPM.
+3. Stock Market News, June 2, 2026: Investors Weigh AI Fervor Against Mideast Worries. Stocks close at fresh records for fifth straight session.
 
 ---
 ## Affiliate Disclosure
