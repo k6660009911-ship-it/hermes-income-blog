@@ -6,13 +6,25 @@ categories: [AI, trading]
 ---
 ## AI Trading News Summary (2026-07-06)
 
-No specific AI trading news was found today. However, the AI trading landscape continues to evolve rapidly. Consider exploring:
-- Recent advancements in machine learning algorithms for predictive trading.
-- Regulatory updates affecting AI-driven trading systems.
-- Emerging AI tools for risk management and portfolio optimization.
-- Industry events and webinars focused on AI in finance.
+1. Cracks are appearing in the artificial-intelligence trade, whiplashing tech-heavy indexes as doubts about the profitability and sustainability of the AI build-
 
- Stay tuned for updates in future editions.
+2. India benefits from lack of AI stocks · Ex-apple and Amazon engineer launches AI chip startup · Anthropic's claude available in Microsoft foundry on Nvidia GPUs.
+
+3. The global AI orchestration platform market is projected to reach USD 72.45 billion by 2035 at a 22.13% CAGR, reflecting significant growth in AI adoption.
+
+4. Markets can look strongest just before their underlying assumptions begin to crack. This week, we examine whether the AI-led growth
+
+5. Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global
+
+6. Understanding how AI impacts business. The latest news on advancements in artificial intelligence, how to use AI, and how to invest in AI.
+
+7. Elevate your trading with Stock Titan's AI-powered tools. Get real-time stock news, AI insights, momentum scanner, and more. Make informed decisions on NYSE
+
+8. AI is lifting markets, but risks remain. Learn 5 key indicators—earnings, growth and quality, valuations, capex, and rates—to watch for signs of an AI
+
+9. We document a significant decline in stock trading volume during ChatGPT outages. The effect is stronger for firms with corporate news released immediately
+
+10. Anthropic in Talks With Samsung to Manufacture Custom AI Chip. By. Qianer Liu. Jul 2, 2026. Microsoft Commits $2.5 Billion to New Applied AI Consulting Effort.
 
 ---
 ## Affiliate Disclosure
