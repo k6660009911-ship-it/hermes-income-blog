@@ -6,13 +6,11 @@ categories: [AI, trading]
 ---
 ## AI Trading News Summary (2026-07-06)
 
-1. What Happened in Markets Today · Troubles at OpenAI sent tremors through technology stocks on Tuesday, pulling the Nasdaq composite down 0.9%.
+1. Trading Day: Sizzling AI now fizzling · STOCKS: South Korea -5%, China and Japan -2%. · SECTORS/SHARES: Eight S&P 500 sectors fall, three rise.
 
-2. Artificial intelligence will change the way we all live and work, the AI boom will leave a permanent mark on the markets and the economy.
+2. What Happened in Markets Today · Troubles at OpenAI sent tremors through technology stocks on Tuesday, pulling the Nasdaq composite down 0.9%.
 
-3. Chemicals · Honeywell spin-off targets AI supply chain with $14.5bn deal for Element ; Microsoft Corp · Microsoft to axe 4,800 jobs as it resets Xbox ; Markets.
-
-4. Stock Market News, June 2, 2026: Investors Weigh AI Fervor Against Mideast Worries. Stocks close at fresh records for fifth straight session.
+3. Understanding how AI impacts business. The latest news on advancements in artificial intelligence, how to use AI, and how to invest in AI.
 
 ---
 ## Affiliate Disclosure
