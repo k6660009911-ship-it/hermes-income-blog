@@ -6,19 +6,13 @@ categories: [AI, trading]
 ---
 ## AI Trading News Summary (2026-07-06)
 
-1. AI stock news today: Real-time updates on artificial intelligence advancements in public companies. Track AI news, machine learning breakthroughs,
+1. What Happened in Markets Today · Troubles at OpenAI sent tremors through technology stocks on Tuesday, pulling the Nasdaq composite down 0.9%.
 
-2. Read the latest AI tech news impacting the stock market today powered by Seeking Alpha. AI boom is fueling inflation before it fights it,
+2. Understanding how AI impacts business. The latest news on advancements in artificial intelligence, how to use AI, and how to invest in AI.
 
-3. Latest AI News ; BusinessCategory Hedge funds dumped chip stocks for a fourth week as AI shares sold off 11 hours ago ; LegalCategory Britain should consider
+3. Even hedge funds are divided about whether to ride the artificial intelligence wave or position for a nasty stock-market correction.
 
-4. India's stock market has lagged global peers largely due to its absence of big AI names. CEO Jensen Huang Highlighted a New AI Bottleneck. -3.71% Anthropic
-
-5. Elevate your trading with Stock Titan's AI-powered tools. Get real-time stock news, AI insights, momentum scanner, and more. Make informed decisions on NYSE
-
-6. Today, some investors see similar signs in artificial intelligence. Michael Burry, famed for predicting the 2008 crash, is once again betting
-
-7. Understanding how AI impacts business. The latest news on advancements in artificial intelligence, how to use AI, and how to invest in AI.
+4. “The concern is that AI will reduce the frictional cost of finance, which would reduce profits for banks and other financial firms.” JPM.
 
 ---
 ## Affiliate Disclosure
